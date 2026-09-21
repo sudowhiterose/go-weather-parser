@@ -1,7 +1,4 @@
-# weather-parser
 # Простой парсер для погоды в Москве, с использованием API от open-meteo
-
-# Пример:
 <img width="808" height="240" alt="изображение" src="https://github.com/user-attachments/assets/5d74b955-1112-4704-93fb-d1a8abfd4087" />
 
 # Как использовать:
